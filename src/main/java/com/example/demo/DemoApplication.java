@@ -16,6 +16,6 @@ public class DemoApplication {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello from AWS CI/CD!";
+        return "Hello from AWS CI/CD! This is a second ver. Date:17-10-2026";
     }
 }
